@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(135deg,#f0f8ff,#dbeeff);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+input.is-invalid, select.is-invalid {
+  border-color: #dc3545;
+}
